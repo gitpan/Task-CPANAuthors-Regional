@@ -1,5 +1,5 @@
 package Task::CPANAuthors::Regional;
-$Task::CPANAuthors::Regional::VERSION = '1.000';
+$Task::CPANAuthors::Regional::VERSION = '1.001';
 use strict;
 use warnings;
 
@@ -15,7 +15,7 @@ Task::CPANAuthors::Regional
 
 =head1 VERSION
 
-version 1.000
+version 1.001
 
 =head1 SYNOPSIS
 
